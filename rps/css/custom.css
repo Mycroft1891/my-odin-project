@@ -5,7 +5,7 @@ body {
   background-color: #eeeeed59;
 }
 
-h1, h2, h3, h4, h5, h6 {
+.header {
   margin: 0px;
   padding: 0.5em;
   text-align: center;
@@ -14,19 +14,17 @@ h1, h2, h3, h4, h5, h6 {
   color: #eeeeee;
 }
 
-.project-list {
-  margin-top: 1.5em;
-}
-
 a {
-  width: 50%;
+  width: 30%;
   margin: auto;
+  margin-top: 2em;
   display: block;
   border: 0.2em solid #eee;
   padding: 0.5em;
   margin-bottom: 1em;
   border-radius: 0.3em;
   text-decoration: none;
+  text-align: center;
   font-size: 1.4em;
   font-family: sans-serif;
   font-weight: bold;
