@@ -4,6 +4,8 @@
 2. [Rock, Paper, Scissors](#rock-paper-scissors)
 3. [Javascript Exercises](#javascript-exercises)
 4. [Working with the DOM](#working-with-the-dom)
+5. [Rock, Paper, Scissors with GUI](#rock-paper-scissors-with-gui)
+6. [Sketch Grid Generator](#sketch-grid-generator)
 
 
 ## Google Clones
@@ -24,3 +26,11 @@ A javascript script to play Rock, Paper, Scissors using the Developer Tools
 ## Working with the DOM
 [Repository Link](https://github.com/Mycroft1891/my-odin-project/tree/master/dom)
 A website where you can play drums with your keyboard using DOM event handling.
+
+## Rock, Paper, Scissors with GUI
+[Repository Link](https://github.com/Mycroft1891/my-odin-project/tree/master/rps)
+A javascript script to play Rock, Paper, Scissors with a Graphic User Interface using DOM manipulation
+
+## Sketch Grid Generator
+[Repository Link](https://github.com/Mycroft1891/my-odin-project/tree/master/sketch)
+A custom grid generator that changes the color of each of the generated cells after hovering them with the mouse. 
