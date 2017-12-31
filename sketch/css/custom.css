@@ -1,0 +1,59 @@
+body, html {
+  font-family: sans-serif;
+  margin: 0px;
+}
+
+.header {
+  margin: 0px;
+  padding: 0.01em;
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #802c5a;
+  color: #eeeeee;
+}
+
+.content {
+  margin: auto auto 5em auto;
+  width: 50%;
+}
+
+p {
+  margin: auto;
+  margin-top: 1em;
+  display: block;
+  border: 0.2em solid #eee;
+  padding: 0.5em;
+  margin-bottom: 1em;
+  border-radius: 0.3em;
+  text-decoration: none;
+  text-align: center;
+  font-size: 1.4em;
+  font-family: sans-serif;
+  font-weight: bold;
+  background-color: #eee;
+  color: #7f2c59;
+}
+
+p:hover {
+  background-color: #ccc;
+  border-color: #ccc;
+}
+
+#main {
+  margin: auto;
+  border: 1px solid #eee;
+}
+
+.grid-col {
+  margin: 0.5px;
+  display: inline-block;
+  background-color: #7f2c59;
+}
+
+.grid-row {
+  display: flex;
+}
+
+.hovered {
+  background-color: #ccc;
+}
