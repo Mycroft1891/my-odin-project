@@ -6,7 +6,7 @@
 4. [Working with the DOM](#working-with-the-dom)
 5. [Rock, Paper, Scissors with GUI](#rock-paper-scissors-with-gui)
 6. [Sketch Grid Generator](#sketch-grid-generator)
-
+7. [Calculator with GUI](#calculator-with-gui)
 
 ## Google Clones
 [Repository Link](https://github.com/Mycroft1891/my-odin-project/tree/master/html-css)
@@ -33,4 +33,13 @@ A javascript script to play Rock, Paper, Scissors with a Graphic User Interface 
 
 ## Sketch Grid Generator
 [Repository Link](https://github.com/Mycroft1891/my-odin-project/tree/master/sketch)
-A custom grid generator that changes the color of each of the generated cells after hovering them with the mouse. 
+A custom grid generator that changes the color of each of the generated cells after hovering them with the mouse.
+
+## Calculator with GUI
+[Repository Link](https://github.com/Mycroft1891/my-odin-project/tree/master/calculator)
+A Calculator Project using Plain Javascript, the main challenge were not the operations but working with the UI. Some of the main problems were:
+
+* update the numbers typed in and the result at the right time
+* get the right values from the button
+* differentiate between numbers and operators as well special operators (=, remove)
+* validate the input so that the app doesn’t end up with multiple operators (ex: +++-4)
