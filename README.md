@@ -7,6 +7,8 @@
 5. [Rock, Paper, Scissors with GUI](#rock-paper-scissors-with-gui)
 6. [Sketch Grid Generator](#sketch-grid-generator)
 7. [Calculator with GUI](#calculator-with-gui)
+8. [Pomodoro with GUI](#pomodoro-with-gui)
+
 
 ## Google Clones
 [Repository Link](https://github.com/Mycroft1891/my-odin-project/tree/master/html-css)
@@ -43,3 +45,8 @@ A Calculator Project using Plain Javascript, the main challenge were not the ope
 * get the right values from the button
 * differentiate between numbers and operators as well special operators (=, remove)
 * validate the input so that the app doesn’t end up with multiple operators (ex: +++-4)
+
+
+## Pomodoro with GUI
+[Repository Link](https://github.com/Mycroft1891/my-odin-project/tree/master/pomodoro)
+A Pomodoro clock build in Javascript with a graphical user interface.
