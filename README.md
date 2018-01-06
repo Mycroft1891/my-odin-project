@@ -11,34 +11,34 @@
 
 
 ## Google Clones
-[Repository Link](https://github.com/Mycroft1891/my-odin-project/tree/master/html-css)
+[Repository Link](https://github.com/Mycroft1891/my-odin-project/tree/master/web-development-101/html-css)
 Create a clone of the Google Search Homepage and the Google Search results page.
 
 
 ## Rock, Paper, Scissors
-[Repository Link](https://github.com/Mycroft1891/my-odin-project/tree/master/rps)
+[Repository Link](https://github.com/Mycroft1891/my-odin-project/tree/master/web-development-101/rps)
 A javascript script to play Rock, Paper, Scissors using the Developer Tools
 
 
 ## Javascript Exercises
-[Repository Link](https://github.com/Mycroft1891/my-odin-project/tree/master/js-exercises)
+[Repository Link](https://github.com/Mycroft1891/my-odin-project/tree/master/web-development-101/js-exercises)
 6 javascript exercises build with specific tests.
 
 
 ## Working with the DOM
-[Repository Link](https://github.com/Mycroft1891/my-odin-project/tree/master/dom)
+[Repository Link](https://github.com/Mycroft1891/my-odin-project/tree/master/web-development-101/dom)
 A website where you can play drums with your keyboard using DOM event handling.
 
 ## Rock, Paper, Scissors with GUI
-[Repository Link](https://github.com/Mycroft1891/my-odin-project/tree/master/rps)
+[Repository Link](https://github.com/Mycroft1891/my-odin-project/tree/master/web-development-101/rps)
 A javascript script to play Rock, Paper, Scissors with a Graphic User Interface using DOM manipulation
 
 ## Sketch Grid Generator
-[Repository Link](https://github.com/Mycroft1891/my-odin-project/tree/master/sketch)
+[Repository Link](https://github.com/Mycroft1891/my-odin-project/tree/master/web-development-101/sketch)
 A custom grid generator that changes the color of each of the generated cells after hovering them with the mouse.
 
 ## Calculator with GUI
-[Repository Link](https://github.com/Mycroft1891/my-odin-project/tree/master/calculator)
+[Repository Link](https://github.com/Mycroft1891/my-odin-project/tree/master/web-development-101/calculator)
 A Calculator Project using Plain Javascript, the main challenge were not the operations but working with the UI. Some of the main problems were:
 
 * update the numbers typed in and the result at the right time
@@ -48,5 +48,5 @@ A Calculator Project using Plain Javascript, the main challenge were not the ope
 
 
 ## Pomodoro with GUI
-[Repository Link](https://github.com/Mycroft1891/my-odin-project/tree/master/pomodoro)
+[Repository Link](https://github.com/Mycroft1891/my-odin-project/tree/master/web-development-101/pomodoro)
 A Pomodoro clock build in Javascript with a graphical user interface.
