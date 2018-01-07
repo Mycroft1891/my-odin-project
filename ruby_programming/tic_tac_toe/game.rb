@@ -25,11 +25,12 @@ while board.game_over != true
   move = gets.chomp.to_i
   board.saveMove(move, "X")
 
+  return if board.game_over
   print "\n(O) #{p2.name} enter your move: "
   move = gets.chomp.to_i
   board.saveMove(move, "O")
 end
 
 print "\n===== GAME OVER =====\n"
-print "\t#{board.winner} won the game\n"
-print "\tCongratulations"
+print "#{board.winner} won the game\n"
+print "Congratulations"

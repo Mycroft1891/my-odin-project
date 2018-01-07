@@ -1,8 +1,8 @@
 require 'minitest/autorun'
 require 'minitest/benchmark'
 
-require './lib/caeser'
-require './lib/bubble_sort'
+require './caeser'
+require './bubble_sort'
 
 
 describe "Caeser shift" do
