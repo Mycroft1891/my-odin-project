@@ -1,5 +1,4 @@
 require 'minitest/autorun'
-require 'minitest/benchmark'
 
 require './caeser'
 require './bubble_sort'
